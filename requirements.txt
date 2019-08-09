@@ -5,3 +5,4 @@ dash==1.1.1  # The core dash backend
 dash-html-components==1.0.0  # HTML components
 dash-core-components==1.0.0  # Supercharged components
 gunicorn==19.9.0
+pandas==0.25.0
