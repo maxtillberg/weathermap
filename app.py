@@ -39,5 +39,5 @@ def make_figure(x, y, color, facet_col, facet_row):
         height=700,
     )
 
-
-app.run_server(debug=True)
+if __name__ == "__main__":
+    app.run_server(debug=True)
