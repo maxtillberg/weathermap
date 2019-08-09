@@ -1,4 +1,4 @@
-﻿Hour;Envelope & Thermal bridges;Window & Solar;Local heating units;Local cooling units;AHU heat recovery;AHU cold recovery;AHU Heating;AHU Cooling;Roomtemp;Outside air dry-bulb temperature
+Hour;Envelope & Thermal bridges;Window & Solar;Local heating units;Local cooling units;AHU heat recovery;AHU cold recovery;AHU Heating;AHU Cooling;Roomtemp;Outside air dry-bulb temperature
 2019-01-01 01:00;-58.52;-76.97;0;0;412.3;0;154.4;0;21.14;-7.195
 2019-01-01 02:00;-59.63;-76.21;0;0;409.8;0;151.8;0;21.08;-6.985
 2019-01-01 03:00;-60.69;-75.56;0.417;0;406.6;0;151;0;21.02;-6.827
@@ -8759,7 +8759,3 @@
 2019-12-31 22:00;-54.99;-83.79;0;0;444;0;172.8;0;21.35;-9.248
 2019-12-31 23:00;-56.03;-82.53;0;0;436.9;0;170.7;0;21.27;-8.873
 2020-01-01 00:00;-57.13;-81.6;0;0;432.1;0;169.2;0;21.2;-8.612
-;;;;;;;;;;
-;;;;;;;;;;
-;;;;;;;;;;
-;;;;;;;;;;
