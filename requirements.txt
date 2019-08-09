@@ -1,3 +1,5 @@
+Flask==1.0.2
+Flask-Compress==1.4.0
 plotly_express
 dash==0.39.0  # The core dash backend
 dash-html-components==0.14.0  # HTML components
