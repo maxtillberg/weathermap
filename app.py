@@ -5,8 +5,7 @@ import dash_html_components as html
 import pandas as pd
 
 ########### Get Data
-weatherdata = pd.read_csv('weather.csv', encoding = "cp1252")
-df = pd.read_csv(weatherdata, encoding = "cp1252")
+df = pd.read_csv('weather.csv', encoding = "cp1252")
 
 app = dash.Dash(
     __name__, external_stylesheets=["https://codepen.io/chriddyp/pen/bWLwgP.css"]
