@@ -2,6 +2,11 @@ import plotly.express as px
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+import pandas as pd
+
+########### Get Data
+weatherdata = pd.read_csv('weather.csv')
+
 
 df = px.data.carshare()
 
