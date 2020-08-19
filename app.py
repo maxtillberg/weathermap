@@ -5,6 +5,12 @@ import dash_core_components as dcc
 from dash.dependencies import Input, Output
 
 tips = px.data.tips()
+
+df = px.data.carshare()
+fig = px.scatter_mapbox(df, lat="centroid_lat", lon="centroid_lon", color="peak_hour", size="car_hours",
+                  color_continuous_scale=px.colors.cyclical.IceFire, size_max=15, zoom=10,
+                  mapbox_style="carto-positron")
+
 col_options = [dict(label=x, value=x) for x in tips.columns]
 dimensions = ["x", "y", "color", "facet_col", "facet_row"]
 
