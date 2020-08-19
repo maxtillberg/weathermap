@@ -5,7 +5,9 @@ import dash_html_components as html
 
 df = px.data.carshare()
 
-app = dash.Dash()
+app = dash.Dash(
+    __name__, external_stylesheets=["https://codepen.io/chriddyp/pen/bWLwgP.css"]
+)
 server = app.server
 
 fig = px.scatter_mapbox(df, lat="centroid_lat", lon="centroid_lon", color="peak_hour", size="car_hours",
@@ -16,4 +18,5 @@ app.layout = html.Div([
     dcc.Graph(figure=fig)
 ])
 
-app.run_server(debug=True, use_reloader=False)
+if __name__ == "__main__":
+    app.run_server(debug=True)
