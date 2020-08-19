@@ -1,0 +1,52 @@
+Name,Latitude,Longitude,Elevation,Time zone,Dry bulb min winter,Dry bulb max winter,Wet bulb max winter,Wind direction winter,Wind speed winter,Clearness winter,Dry bulb min summer,Dry bulb max summer,Wet bulb max summer,Wind direction summer,Wind speed summer,Clearness summer,Country,City,Description
+Ängelholm_026070,56.28,12.08,18,1,-11.6,-7.1,-7.8,130,2.1,1,13.8,26.9,18.7,130,4.6,1,Sweden,Angelholm/Barkakra,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Arjeplog_021240,66.05,17.87,432,1,-30.9,-23.4,-23.6,90,0.2,1,12.2,22.6,15.2,180,2.4,1,Sweden,Arjeplog,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Bjuröklubb_022960,64.48,21.58,43,1,-21.4,-18.6,-18.9,340,4.4,1,16.5,22.1,16.3,180,4.7,1,Sverige,Bjuröklubb,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Falsterbo_026160,55.38,12.82,5,1,-7.4,-4.9,-6.1,30,4.3,1,17.1,24.4,19.2,100,4.4,1,Sweden,Falsterbo,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Fårö_025880,57.9,19.17,8,1,-8.9,-5.6,-6.6,340,5,1,15.8,24,17.8,180,4.3,1,Sweden,Faro Island,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Fränsta_023420,62.5,16.18,75,1,-29.8,-21.3,-21.5,20,0,1,10.4,26.8,17.1,180,2.8,1,Sweden,Fransta,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Gäddede_022220,64.5,14.17,330,1,-27.3,-21.1,-21.3,0,0.2,1,10,24,16,180,2.9,1,Sweden,Gaddede,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Göteborg - Landvetter_025260,57.67,12.28,155,1,-13.2,-8.4,-8.9,30,3.3,1,14,26.1,17.3,210,4,1,Sweden,Goteborg/Landvetter,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Göteborg - Säve_025120,57.78,11.88,16,1,-14,-8.8,-9.2,60,1.2,1,13.4,26,18,270,4.3,1,Sweden,Goteborg/Save,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Gotska Sandön_025840,58.4,19.2,17,1,-8.5,-5.6,-6.54,90,4.7,1,18.1,23.9,18.4,180,4,1,Sverige,Gotska Sandön,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Gunnarn_021280,65.02,17.68,283,1,-31.8,-23.2,-23.4,320,0.2,1,11.1,24.6,15.6,270,2.8,1,Sweden,Gunnarn,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Haparanda_021960,65.83,24.15,6,1,-27,-19.4,-19.7,0,0.9,1,13.5,23.5,16.2,180,3.1,1,Sweden,Haparanda,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Harstena_025860,58.25,17.02,18,1,-12.7,-9.7,-10.2,320,4.4,1,17.9,23.9,18.3,160,3.9,1,Sverige,Harstena,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Hemavan - Gierevarto_021040,65.78,15.07,793,1,-29,-25.8,-25.8,130,3.1,1,13.6,20,13.4,150,4.2,1,Sverige,Hemavan - Gierevarto,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Hoburg_026800,56.92,18.15,39,1,-7.7,-5,-6.3,20,5.1,1,17.5,23.7,17.4,90,4.5,1,Sweden,Hoburg,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Holmögadd_022880,63.6,20.75,6,1,-19.1,-15.1,-15.5,0,3.5,1,16,20.8,16.9,200,3.5,1,Sweden,Holmogadd,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Jokkmokk (SWE-AFB)_021420,66.63,19.65,264,1,-34,-24.6,-24.7,180,0.1,1,11.6,23.2,15.7,90,3.6,1,Sweden,Jokkmokk (Swe-Afb),Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Jönköping - Axamo_025500,57.75,14.08,224,1,-17.8,-11.8,-12,270,1.7,1,11.3,26.8,17.2,70,3.9,1,Sweden,Jonkoping/Axamo,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Karlstad flygplats_024180,59.45,13.47,100,1,-18.5,-12.7,-13.1,0,1.4,1,13.8,26.3,17.7,190,3.5,1,Sweden,Karlstad Flygplats,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Katterjåkk_020200,68.42,18.17,517,1,-25.9,-19.9,-20.1,230,0.7,1,10.6,20.6,13.6,200,3.6,1,Sweden,Katterjakk,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Kirkenes_010890 (ASHRAE 2013),69.73,29.9,91,1,-27.1,-20.6,-20.6,160,3.4,1,11.8,22.8,14.7,210,4.9,1,Norway,Kirkenes,Data from ASHRAE Fundamentals 2013
+Kiruna_020440,67.82,20.33,447,1,-29.8,-22.1,-22.3,220,1.8,1,10.8,22.1,14.6,190,3.4,1,Sweden,Kiruna,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Kvikkjokk-Årrenjarka_021200,66.88,17.75,315,1,-33.4,-24.9,-25,0,0.6,1,9.8,23.2,15.2,180,2.5,1,Sweden,Kvikkjokk-Arrenjark,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Lainio_020860,67.77,22.35,325,1,-31,-23.5,-23.8,320,1.1,1,11.7,22,14.6,140,3.5,1,Sweden,Lainio,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Landsort_025820,58.75,17.87,20,1,-10.7,-8.95,-9.55,340,6.8,1,18.7,22.2,18.7,230,4.4,1,Sverige,Landsort,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Linköping - Malmslätt_025620,58.4,15.53,93,1,-16.4,-11.3,-11.6,200,1.4,1,13.5,27.3,18.4,280,3.2,1,Sweden,Linkoping/Malmslatt,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Ljungbyhed (SWE-AFB)_026300,56.08,13.23,52,1,-13.9,-8.8,-9.3,300,1.6,1,12.9,27.3,18.1,320,3.9,1,Sweden,Ljungbyhed(Swe-Afb),Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Luleå - Kallax_021860,65.55,22.13,17,1,-26.8,-18.8,-19,330,1.3,1,14.4,24,17,180,3.9,1,Sweden,Lulea-Kallax,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Målilla_025660,57.4,15.82,98,1,-18.8,-13.5,-13.8,340,0.6,1,11.5,29.2,17.9,230,2.9,1,Sweden,Malilla,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Malmö - Sturup_026360,55.52,13.37,155,1,-11.9,-7.7,-8.1,340,2.9,1,13.5,26.2,18.4,140,4.6,1,Sweden,Malmo/Sturup,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Malung_024100,60.68,13.72,308,1,-25.6,-16.7,-17,0,0.7,1,10.1,26.4,16.9,180,2.1,1,Sweden,Malung,Data from ASHRAE Fundamentals 2013
+Osby_026260,56.37,13.95,85,1,-16.5,-11.1,-11.6,0,1,1,11.9,27,19.1,140,2.8,1,Sweden,Osby,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Östersund - Frösön_022260,63.2,14.5,359,1,-23.2,-17.5,-17.7,100,1.3,1,13.4,24.1,15.9,130,3.5,1,Sweden,Ostersund Froson,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Östmark_024000,60.35,12.65,310,1,-20.9,-15.7,-16,320,0.7,1,12.1,26.2,16.9,230,3.9,1,Sweden,Ostmark,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Pajala_020960,67.22,23.4,168,1,-31.7,-23.3,-23.5,320,0.4,1,12.5,25.2,16,180,2.4,1,Sweden,Pajala,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Ronneby_026640,56.27,15.27,58,1,-13.6,-8.8,-9.2,10,2.1,1,13.2,27.1,18.7,230,4.3,1,Sweden,Ronneby/Bredakra,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Särna_023160,61.7,13.18,425,1,-31.1,-22.1,-22.4,320,0.5,1,9.1,24.4,15.6,180,2.6,1,Sweden,Sarna,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Såtenäs_025200,58.43,12.72,54,1,-14.8,-10.2,-10.6,60,1.4,1,13.3,25.8,18.5,0,3.9,1,Sweden,Satenas,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Singö_024740,60.17,18.75,14,1,-15.6,-10.6,-10.9,270,2.8,1,15.3,26.1,17.5,180,4,1,Sweden,Singo Island,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Söderhamn (SWE-AFB)_023760,61.27,17.1,36,1,-19.8,-14.2,-14.8,300,2.9,1,13.3,26.1,17.2,130,4.1,1,Sweden,Soderhamn (Swe-Afb),Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Stockholm - ARlanda_024600,59.62,17.95,61,1,-17,-11.3,-11.6,250,2.1,1,14.9,28,18.1,220,4.5,1,Sweden,Stockholm/Arlanda,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Stockholm - Bromma_024640,59.37,17.9,14,1,-16.1,-10.5,-10.9,290,1.5,1,15.3,27.8,18.2,210,3.8,1,Sweden,Stockholm/Bromma,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Storlien_022060,63.3,12.12,644,1,-21.2,-16.2,-16.5,100,1,1,10.3,21.5,13.8,200,4.1,1,Sweden,Storlien,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Sveg_023240,62.02,14.37,363,1,-26.9,-19.9,-20.1,230,0.2,1,10.7,26.1,16.8,230,3.3,1,Sweden,Sveg,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Svenska Högarna_024960,59.45,19.5,12,1,-9.7,-7,-7.8,20,9.1,1,18.3,23.1,18.7,180,4.4,1,Sweden,Svenska Hogarna,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Tromsø/Langnes_010250 (ASHRAE 2013),69.68,18.92,10,1,-13,-8.3,-9.1,60,1.7,1,11.2,20.8,15.1,0,3.5,1,Norway,Tromsø/Langnes,Data from ASHRAE Fundamentals 2013
+Umeå_022860,63.8,20.28,8,1,-24.4,-16.2,-16.5,320,1.3,1,11.9,24.4,17.4,200,4.3,1,Sweden,Umea,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Ungskär_026660,56.03,15.8,3,1,-10.1,-7.2,-7.8,320,4.9,1,17.5,22.9,19.3,50,5.2,1,Sweden,Ungskar,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Uppsala_024580,59.9,17.6,21,1,-19.1,-13.1,-13.4,310,1,1,13.2,27.3,18.6,230,3.5,1,Sweden,Uppsala,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Västerås - Hasslö AFB_024460,59.58,16.63,31,1,-18.4,-12.2,-12.7,0,1,1,13.7,27.8,18.1,200,3.5,1,Sweden,Vasteras/Hasslo Afb,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
+Visby_025900,57.67,18.35,47,1,-10.4,-6.3,-7.1,40,3.6,1,14.8,25.2,17.6,110,4.9,1,Sweden,Visby,Data från ASHRAE Fundamentals 2013 för Sverige.umret iamnet är stationsnummer från WMO.
