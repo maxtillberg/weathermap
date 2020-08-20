@@ -14,7 +14,7 @@ server = app.server
 
 fig = px.scatter_mapbox(df, lat="Latitude", lon="Longitude", color="Dry bulb max summer", size="Time zone",
                   color_continuous_scale=px.colors.diverging.Portland, hover_name="Name", size_max=9, zoom=3,
-                  mapbox_style="carto-positron", height= 800)
+                  mapbox_style="carto-positron", height= 750)
 
 app.layout = html.Div([
     dcc.Graph(figure=fig)
